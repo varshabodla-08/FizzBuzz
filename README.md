@@ -1,3 +1,4 @@
+var string=readline();
 for(var i=1;i<101;i++){
   if(i%20==0) console.log("FizzBuzz");
   else if(i%4==0) console.log("Fizz");
